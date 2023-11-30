@@ -3,6 +3,7 @@
 #define PIN_A0 26
 #define PIN_A1 27
 #define PIN_A2 28
+#define PIN_A3 29
 #define NUM_ANALOG_INPUTS 4
 #define PIN_WIRE_SDA 18
 #define PIN_WIRE_SCL 19
